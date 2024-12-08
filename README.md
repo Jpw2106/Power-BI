@@ -9,3 +9,6 @@ Excel: Utilizado para manipulação e análise de dados, utilizando fórmulas av
 DAX: Linguagem de expressão usada no Power BI para manipulação de dados e cálculos avançados.
 
 Power Query: Para transformação e preparação de dados antes de serem carregados no Power BI.
+
+
+![Anotação 2024-12-08 162031](https://github.com/user-attachments/assets/b5b78b87-abde-40cc-8178-fa85c60c9db8)
