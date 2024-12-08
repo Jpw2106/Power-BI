@@ -3,6 +3,9 @@ Este repositório contém projetos que utilizam Power BI para criação de dashb
 💻Tecnologias Utilizadas:
 
 Power BI: Ferramenta de visualização de dados, utilizada para criar dashboards interativos, gráficos e relatórios.
+
 Excel: Utilizado para manipulação e análise de dados, utilizando fórmulas avançadas, tabelas dinâmicas e gráficos.
+
 DAX: Linguagem de expressão usada no Power BI para manipulação de dados e cálculos avançados.
+
 Power Query: Para transformação e preparação de dados antes de serem carregados no Power BI.
